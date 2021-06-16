@@ -2,7 +2,7 @@
 
 ---
 
-I am a Python learner who is exploring Cloud :cloud: while learning new technologies and Enthusiast about Computer Vision. :wink:
+I am a Python learner who is exploring Cloud :cloud: while learning new technologies and Enthusiast about Artificial Intelligence. :wink:
 
 
 - 🔭 I’m currently working on Computer Vision
