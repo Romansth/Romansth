@@ -5,13 +5,13 @@
 I am a Python learner who is exploring Cloud :cloud: while learning new technologies and Enthusiast about Artificial Intelligence. :wink:
 
 
-- 🔭 I’m currently working on Computer Vision
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on research paper
+- 🔭 I’m currently working on Human Computer Interaction
+- 🌱 I’m  learning Javascript
+- 👯 I’m looking to collaborate on solving leetocode problems together
 - 🤔 I’m looking for help with Github Opensource
-- 💬 Ask me about Python
+- 💬 Ask me about my favorite project
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't like frontend
+- ⚡ Fun fact: I can code in 7 languages
 
 ---
 
