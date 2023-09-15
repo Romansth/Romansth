@@ -13,8 +13,6 @@ I am a Python learner who is exploring Cloud :cloud: while learning new technolo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't like frontend
 
-![Profile views](https://gpvc.arturio.dev/Romansth)  <img src="https://img.shields.io/github/followers/Romansth?label=Follow" style=" float:left, margin-right:10px" />
-
 ---
 
 
