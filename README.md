@@ -5,29 +5,32 @@
 I am a Python learner who is exploring Cloud :cloud: while learning new technologies and Enthusiast about Artificial Intelligence. :wink:
 
 
-- 🔭 I’m currently working on Human Computer Interaction
-- 🌱 I’m  learning Javascript
-- 👯 I’m looking to collaborate on solving leetocode problems together
+- 🔭 I’m currently working on [Melody Quest](https://melodyquest.app) and [Codify](https://chromewebstore.google.com/detail/codify-code-snippet-manag/ecgllblcbbipbnhbkigjadgejmcomgip)
+- 🌱 I’m  learning Typescript
+- 👯 I’m looking to solving leetocode problems together
 - 🤔 I’m looking for help with Github Opensource
 - 💬 Ask me about my favorite project
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can code in 7 languages
+- ⚡ Fun fact: I have a pet dolphin!
 
 ---
 
 
 ### Tech & Tools Preference
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
